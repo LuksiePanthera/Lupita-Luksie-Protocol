@@ -19,12 +19,12 @@ This creates a perfect, natural calibration point for telescopes, spectroscopy, 
 **This is a WORK IN PROGRESS. A starting point for builders. Not a finished protocol.**
 
 - This is a **conceptual framework** and **proof of concept**.
-- It is **not** a certified calibration standard for expensive equipment.
+- It is **not** a certified calibration standard for equipment.
 - It is **not** a plug-and-play solution.
 - It is **not** a fully validated navigation, AI, or crypto system.
 
 **Use at your own risk.**
-- Verify calculations independently before pointing expensive gear.
+- Verify calculations independently before pointing gear.
 - Test thoroughly before relying on this for critical applications.
 - Validate your results with real-world data.
 
@@ -102,8 +102,8 @@ This protocol could be used in many fields:
 - **Collaboration?** Reach out. I am open to projects that need design tools, testing, or creative direction.
 
 
-**My role:** Host. Architecture. Design. Contributor when I can.  
-**Your role:** Build. Test. Improve. Share
+**My role:** Design Architecture. Contributor when I can.  
+**Your role:** Build. Test. Improve. Share. Co-design.
 
 ---
 
