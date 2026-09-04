@@ -1,14 +1,13 @@
 # Lupita-Luksie Protocol
-## Zenith Calibration Kit
+## Virtual Zenith Calibration Geometry.
 
 This project maps the sky to the ground. 
 
 Lupita Island (7.5°S) sits directly under the star Rigel (-8.2° dec) and the Witch Head Nebula (-7.9° dec). This means these celestial objects pass almost exactly at the Zenith (directly overhead) every night. 
 
-This creates a perfect, natural calibration point for telescopes, spectroscopy, and clock synchronization.
+This creates a perfect, natural calibration point for coordination, navigation or clock synchronization.  
 
-**This creates a predictable, repeatable, verifiable reference point.**
-
+**This is a predictable, repeatable, verifiable reference point.**
 
 **A foundational geometric reference for global builders.**
 
@@ -18,7 +17,8 @@ This creates a perfect, natural calibration point for telescopes, spectroscopy, 
 
 **This is a WORK IN PROGRESS. A starting point for builders. Not a finished protocol.**
 
-- This is a **conceptual framework** and **proof of concept**.
+
+- This is a **conceptual/architectural framework** and **proof of concept**.
 - It is **not** a certified calibration standard for equipment.
 - It is **not** a plug-and-play solution.
 - It is **not** a fully validated navigation, AI, or crypto system.
@@ -61,8 +61,9 @@ Read this README. Understand the geometry. Share the concept. The math is free.
 ---
 
 ## Applications
+This protocol is an architectural framework. It can be used as-is for basic calibration, or it can be fully developed into something more ambitious.
 
-This protocol could be used in many fields:
+This protocol has potential in fields such as:
 
 | Field | Application |
 | :--- | :--- |
@@ -99,17 +100,17 @@ This protocol could be used in many fields:
 
 - **Questions?** Open an Issue.
 - **Improvements or contributions?** Submit a Pull Request. 
-- **Collaboration?** Reach out. I am open to projects that need design tools, testing, or creative direction.
+- **Collaboration?** Reach out. I am open to projects that need design tools, testing, synergies, probing, simulating or creative direction.
 
 
-**My role:** Design Architecture. Contributor when I can.  
+**My role:** Design Architecture. Contribute when I can.  
 **Your role:** Build. Test. Improve. Share. Co-design.
 
 ---
 
 ## Project Collaboration
 
-If you are working on something that could use this protocol as a foundation—AI models, navigation systems, educational tools, creative projects—reach out. I am open to collaboration, especially if you need design tools or conceptual frameworks.
+If you are working on something that could use this protocol as a foundation—AI models, navigation systems, simulation tools, creative projects—reach out. I am open to collaboration, especially if you need design tools, architecture or conceptual frameworks/thinking.
 
 **Open an Issue with the tag "collaboration" and let's talk.**
 
@@ -144,7 +145,7 @@ MIT. Geometry, and the Sky.
 
 ### Dedicated to:
 
-- aBantu of the Lake Tanganyika region, Southern Africa, the African diaspora and all African peoples whose geometric motifs, cultures, labour and knowledge systems have reflected and carried complex scientific languages on their own terms for centuries, this protocol is recognition for their longstanding contributions to the global field of scientific knowledge.
+- aBantu of the Lake Tanganyika region, Southern Africa, the African diaspora and all African peoples whose geometric motifs, cultures, labor and knowledge systems have reflected and carried foundational and complex scientific languages on their own terms for centuries, this protocol is recognition for their longstanding contributions to the global field of scientific knowledge.
 
 
 *Zambia ku chalo!*
